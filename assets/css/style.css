@@ -1,0 +1,84 @@
+body {
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Lobster', cursive;
+}
+
+.decoracion {
+    text-decoration: none;
+}
+
+nav {
+    background-color: #373A3C;
+}
+
+h5, h2 {
+    font-family: 'Cabin', sans-serif;
+}
+
+h3 {
+    font-family: 'Cabin', sans-serif;
+    display: inline;
+}
+
+hr.solid {
+    border-top: 2px solid #000000;
+}
+
+.navbar-collapse {
+    font-family: 'Cabin', sans-serif;
+}
+
+.recetas {
+    width: 99%;
+}
+
+.div-pizza {
+    border: 0;
+}
+
+.ricomida {
+    font-family: 'Lobster', cursive;
+    display: inline;
+}
+
+.card-text {
+    font-family: 'Cabin', sans-serif;
+}
+
+.btn-secondary {
+    border-color: #DDDDDD;
+    font-family: 'Cabin', sans-serif;
+}
+
+.popover-body {
+    padding: 0.3rem 1rem;
+    background-color: #373A3C;
+    color: #FFFFFF;
+}
+
+.bs-popover-auto[data-popper-placement^=right]>.popover-arrow::after, .bs-popover-end>.popover-arrow::after {
+    border-right-color: #373A3C;
+}
+
+.bs-popover-auto[data-popper-placement^=bottom]>.popover-arrow::after, .bs-popover-bottom>.popover-arrow::after {
+    border-bottom-color: #373A3C;
+}
+
+.carousel-inner {
+    width: 92%;
+}
+
+.carousel-indicators [data-bs-target] {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #373A3C;
+}
+
+.receta, .relacionadas {
+    font-family: 'Cabin', sans-serif;
+}
+
+footer {
+    background-color: #373A3C;
+}
